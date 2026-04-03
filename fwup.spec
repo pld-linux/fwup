@@ -2,7 +2,7 @@ Summary:	Configurable, image-based firmware update utility for embedded Linux-ba
 Summary(pl.UTF-8):	Konfigurowalne narzędzie do aktualizacji firmware'u dla wbudowanych systemów linuksowych
 Name:		fwup
 Version:	0.1.1
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Applications/System
 Source0:	https://github.com/fhunleth/fwup/archive/v%{version}/%{name}-%{version}.tar.gz
